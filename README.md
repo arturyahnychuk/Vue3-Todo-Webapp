@@ -21,7 +21,7 @@ yarn dev
 - Tailwindcss + HeadlessUI
 - Firebase Auth
 - Firestore
-- [Vue3-Kakao-sdk](https://github.com/eggplantiny/vue3-kakao-sdk)
+- [Vue3-Kakao-sdk](https://github.com/arturyahychuk/Vue3-kakao-sdk)
 
 ## Notice
 
